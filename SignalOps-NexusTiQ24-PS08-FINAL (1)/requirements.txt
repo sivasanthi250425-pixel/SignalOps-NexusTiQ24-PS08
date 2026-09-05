@@ -1,0 +1,3 @@
+# NexusTiQ24 PS08 runtime dependencies
+# Intentionally empty: app.py uses Python 3.11 standard library only.
+# This guarantees a clean-machine install without native wheel/build failures.

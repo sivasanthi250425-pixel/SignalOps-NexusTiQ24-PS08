@@ -1,0 +1,6 @@
+{
+  "name": "SignalOps Supply Chain Control Tower",
+  "description": "AI-powered supply chain disruption investigation · NexusTiQ24 · PS08",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
